@@ -1,8 +1,8 @@
 :root {
-    --primary: #d4af37; /* Gold */
-    --accent: #1e3a8a; /* Midnight blue */
-    --text-light: #1c2526; /* Charcoal */
-    --text-dark: #e8e8e8; /* Off-white */
+    --primary: #d4af37; 
+    --accent: #1e3a8a; 
+    --text-light: #1c2526; 
+    --text-dark: #e8e8e8; 
     --bg-light: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%);
     --bg-dark: linear-gradient(135deg, #1c2526 0%, #2d3748 100%);
     --glass-bg: rgba(255, 255, 255, 0.2);
