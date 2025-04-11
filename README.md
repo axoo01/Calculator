@@ -7,4 +7,6 @@ A clean and minimal calculator built with HTML, CSS, and JavaScript. This projec
 - Responsive and simple user interface
 - Built using vanilla JavaScript
 ## Demo
+[Click here for the live demo](https://axoo01.github.io/Calculator/)
+
 
